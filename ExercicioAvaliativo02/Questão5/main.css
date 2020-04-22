@@ -1,0 +1,15 @@
+div {
+    margin: 2px;
+    float: left;
+    width: 180px;
+  }
+
+  .botao {
+
+    margin-bottom: auto;
+    padding: 10px;
+    color: cadetblue;
+    margin: 2px;
+    float: left;
+    width: 180px;
+  }
